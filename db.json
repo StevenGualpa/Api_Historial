@@ -1,5 +1,29 @@
 {
   "Historial":[
+      {
+        "email": "Stevengualpa@hotmail.com",
+        "cardType": "Test",
+        "bin": "777300",
+        "lastDigits": "8432",
+        "deferredCode": "00000000",
+        "deferred": false,
+        "cardBrand": "PayPhone PayPhone",
+        "amount": 8000,
+        "clientTransactionId": "7fdf735d-a5fa-424a-aff3-a4fb1ffd79c8",
+        "phoneNumber": "593993002048",
+        "statusCode": 3,
+        "transactionStatus": "Approved",
+        "authorizationCode": "W9989719",
+        "messageCode": 0,
+        "transactionId": 9989719,
+        "document": "1207485929",
+        "currency": "USD",
+        "storeName": "La_Calaverita",
+        "date": "2022-08-28T01:11:15.29",
+        "regionIso": "EC",
+        "transactionType": "Store to Customer",
+        "reference": "hhgff"
+  },
     {
       "email": "Stevengualpa@hotmail.com",
       "deferred": false,
