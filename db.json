@@ -8,55 +8,40 @@
         "url": "https://www.uteq.edu.ec/comunicacion/noticia/becky-sparring-de-la-campeona-mundial-de-lucha-libre"
   },
       {
-        "Titulo": "Becky: Sparring de la Campeona Mundial de Lucha Libre",
+        "Titulo": "Rector de la UTEQ realizó gira de cooperación académica en Israel",
         "date": "2023-06-20",
-        "descripcioon": "Becky Pamela Cornejo Muñoz con apenas 22 años de edad, es Sparring de Lucha Libre de una reconocida deportista ecuatoriana; a la vez, cursa el quinto semestre de la carrera de Pedagogía de los Idiomas Nacionales y Extranjeros en la UTEQ.",
-        "Portada":"https://www.uteq.edu.ec/assets/images/news/pagina/becky-sparring-de-la-campeona-mundial-de-lucha-libre-portada-uteq.webp",
-        "url": "https://www.uteq.edu.ec/comunicacion/noticia/becky-sparring-de-la-campeona-mundial-de-lucha-libre"
+        "descripcioon": "El Rector de la UTEQ, Eduardo Díaz Ocampo, formó parte de una delegación compuesta por destacados rectores de universidades ecuatorianas en una visita oficial a Israel.",
+        "Portada":"https://www.uteq.edu.ec/assets/images/news/pagina/rector-de-la-uteq-realizo-gira-de-cooperacion-academica-en-israel-portada-uteq.webp",
+        "url": "https://www.uteq.edu.ec/comunicacion/noticia/rector-de-la-uteq-realizo-gira-de-cooperacion-academica-en-israel"
   },
     {
-      "email": "Stevengualpa@hotmail.com",
-      "deferred": false,
-      "cardBrand": " ",
-      "amount": 5000,
-      "clientTransactionId": "4ddff8be-0045-46b4-a5b3-e936994409af",
-      "phoneNumber": "593993002048",
-      "statusCode": 2,
-      "transactionStatus": "Canceled",
-      "message": "Cliente no respondió",
-      "messageCode": 24,
-      "transactionId": 9989515,
-      "document": "1207485929",
-      "currency": "USD",
-      "storeName": "La_Calaverita",
-      "date": "2022-08-28T00:36:58.163",
-      "regionIso": "EC",
-      "transactionType": "Store to Customer",
-      "reference": "vvvg"
+        "Titulo": "Estudiantes de Forestal se capacitan en INIAP",
+        "date": "2023-06-13",
+        "descripcioon": "Estudiantes del décimo semestre de la carrera de Ingeniería Forestal participan en una capacitación sobre Economía Forestal y Ambiental en los mercados de la madera.",
+        "Portada":"https://www.uteq.edu.ec/assets/images/news/pagina/estudiantes-de-forestal-se-capacitan-en-iniap-portada-uteq.webp",
+        "url": "https://www.uteq.edu.ec/comunicacion/noticia/estudiantes-de-forestal-se-capacitan-en-iniap"
   },
   {
-      "email": "Stevengualpa@hotmail.com",
-      "cardType": "Test",
-      "bin": "777300",
-      "lastDigits": "8432",
-       "deferredCode": "00000000",
-      "deferred": false,
-      "cardBrand": "PayPhone PayPhone",
-      "amount": 2000,
-      "clientTransactionId": "c7254007-1ec8-4924-b89a-e5b8e4cae9af",
-      "phoneNumber": "593993002048",
-      "statusCode": 3,
-      "transactionStatus": "Approved",
-      "authorizationCode": "W9989195",
-      "messageCode": 0,
-      "transactionId": 9989195,
-      "document": "1207485929",
-      "currency": "USD",
-      "storeName": "La_Calaverita",
-      "date": "2022-08-27T23:46:06.99",
-      "regionIso": "EC",
-      "transactionType": "Store to Customer",
-    "reference": "pago iiiii"
+    "Titulo": "Convocatoria a Concurso de Cortometraje Crear Conciencia Ambiental",
+    "date": "2023-06-13",
+    "descripcioon": "¡La Carrera de Ingeniería Ambiental te desafía a mostrar tu talento cinematográfico y aportar a la conciencia ambiental!",
+    "Portada":"https://www.uteq.edu.ec/assets/images/news/pagina/convocatoria-a-concurso-de-cortometraje-crear-conciencia-ambiental-portada-uteq.webp",
+    "url": "https://www.uteq.edu.ec/comunicacion/noticia/convocatoria-a-concurso-de-cortometraje-crear-conciencia-ambiental"
+},
+{
+  "Titulo": "UTEQ superó Segunda Fase en Investigación con microorganismos",
+  "date": "2023-06-06",
+  "descripcioon": "Encapsulamiento de microrganismo: una solución sostenible para los desafíos agrícolas",
+  "Portada":"https://www.uteq.edu.ec/assets/images/news/pagina/uteq-supero-segunda-fase-en-investigacion-con-microorganismos-portada-uteq.webp",
+  "url": "https://www.uteq.edu.ec/comunicacion/noticia/uteq-supero-segunda-fase-en-investigacion-con-microorganismos"
+}
+,
+{
+  "Titulo": "Convocatoria a concurso de cátedra e investigación",
+  "date": "2023-06-02",
+  "descripcioon": "La UTEQ a través del Vicerrectorado Académico, en cumplimiento a la normativa institucional, convoca a los estudiantes de todas unidades académicas a postular para Ayudante de Cátedra.",
+  "Portada":"https://www.uteq.edu.ec/assets/images/news/pagina/convocatoria-a-concurso-de-catedra-e-investigacion-portada-uteq.webp",
+  "url": "https://www.uteq.edu.ec/comunicacion/noticia/convocatoria-a-concurso-de-catedra-e-investigacion"
 }
  ],
  "Historial":[
