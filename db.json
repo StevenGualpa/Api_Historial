@@ -44,6 +44,45 @@
   "url": "https://www.uteq.edu.ec/comunicacion/noticia/convocatoria-a-concurso-de-catedra-e-investigacion"
 }
  ],
+ "Revistas":[
+  {
+    "Titulo": "NOTICIAS UTEQ MAYO 2023",
+    "date": "2023-05-31",
+    "Portada":"https://image.isu.pub/230601131939-182fe739c5d16c72dd7ab7edf621e278/jpg/page_1_thumb_large.jpg",
+    "url": "https://issuu.com/universidadtecnicaestataldequevedo/docs/mayo-2023"
+},
+  {
+    "Titulo": "NOTICIAS UTEQ ABRIL 2023",
+    "date": "2023-04-28",
+    "Portada":"https://image.isu.pub/230502141312-df95e80f75fe275686bbcb2b9a98036f/jpg/page_1_thumb_large.jpg",
+    "url": "https://issuu.com/universidadtecnicaestataldequevedo/docs/abril-2023"
+},
+{
+  "Titulo": "NOTICIAS UTEQ MARZO 2023",
+  "date": "2023-04-28",
+  "Portada":"https://image.isu.pub/230331225827-398ecf7653e20d30fd2ce40b1a371139/jpg/page_1_thumb_large.jpg",
+  "url": "https://issuu.com/universidadtecnicaestataldequevedo/docs/marzo-2023"
+},
+{
+  "Titulo": "NOTICIAS UTEQ FEBRERO 2023",
+  "date": "2023-04-28",
+  "Portada":"https://image.isu.pub/230301150825-e3cc994c493c6b9ef5f77fbc68ccff8f/jpg/page_1_thumb_large.jpg",
+  "url": "https://issuu.com/universidadtecnicaestataldequevedo/docs/febrero-2023"
+},
+{
+  "Titulo": "NOTICIAS UTEQ ENERO 2023",
+  "date": "2023-04-28",
+  "Portada":"https://image.isu.pub/230630233042-fcc449c8314a607bab50e1bd3c055aeb/jpg/page_1_thumb_large.jpg",
+  "url": "https://issuu.com/universidadtecnicaestataldequevedo/docs/enero2023"
+}
+,
+{
+  "Titulo": "NOTICIAS UTEQ DICIEMBRE 2022",
+  "date": "2023-04-28",
+  "Portada":"https://image.isu.pub/221230145048-32da00793051267a0e1e374cecbfa8ae/jpg/page_1_thumb_large.jpg",
+  "url": "https://issuu.com/universidadtecnicaestataldequevedo/docs/diciembre-2022"
+}
+],
  "Historial":[
       {
         "email": "Stevengualpa@hotmail.com",
